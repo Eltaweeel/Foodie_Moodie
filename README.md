@@ -1,2 +1,2 @@
 # Foodie_Moodie
-Restaurant project in college
+Restaurant website project in for digital marketing subject in university with my classmates team
